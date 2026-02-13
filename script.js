@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // --- EL MENSAJE ---
     // \n crea saltos de línea.
-    const message = "Aún no puedo comprarte un campo entero de tulipanes reales, así que decidí programarte uno que nunca se marchite.\n\nGracias por cada momento que hemos compartido hasta ahora. Me encantas. 💜";
+    const message = "Espero que te guste este detalle. Decidí que nuestro nuevo comienzo merecía algo único, algo que no se pudiera simplemente comprar. Sé que normalmente no le presto mucha atención a estas fechas, pero si se trata de ti, haré mi mejor esfuerzo y tendré la iniciativa para hacerte sentir amada, esa es mi prioridad.\n\nHonestamente, no imaginaba que nuestros caminos volverían a cruzarse, y mucho menos que todo fluiría de esta manera. Me encanta que empecemos desde 0, me encanta que ahora tengamos decisión para crear momentos memorables, me encanta que trabajemos juntos en cambiar para bien. Por primera vez en mi vida siento que todo encaja y que soy mi versión más auténtica a tu lado.\n\nEl futuro es indescifrable, pero mi mayor deseo es que nuestra historia tenga un desenlace hermoso. Te amo, siempre lo he hecho y siempre lo haré; y aún si existieran 1000 razones para no estar juntos, seguiría eligiéndote.\n\nCon amor, Anderson.";
     
     let index = 0;
 
@@ -102,4 +102,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     typeWriter();
+
 });
